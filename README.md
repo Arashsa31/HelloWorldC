@@ -1,2 +1,2 @@
 # HelloWorldC
- This program prints "Hello World!"
+This program prints the famous "Hello World!"
